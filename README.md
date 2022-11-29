@@ -9,7 +9,7 @@ Ferencia curso nodejs de cero a experto, Fernando Herrera
 
 
 ## Autor
-**Nicolás RossettiE**
+**Nicolás Rossetti**
 
 
 * [LinkedIn] (https://www.linkedin.com/in/webson2020/)
